@@ -32,7 +32,7 @@
         {
           "type": "image",
           "enabled": true,
-          "src": "https://boktoss2345.github.io/Video-Editor-Creator-Cut-Trim-Music-Filters-5247/assets/image45465.png",
+          "src": "https://boktoss2345.github.io/Turbo-Street-Racing-3D-Car-Driving-Game-2544/assets/image45465.png",
           "widthPercent": 94,
           "maxWidthDp": 760,
           "contentScale": "fit",
@@ -73,7 +73,7 @@
         {
           "type": "video",
           "enabled": true,
-          "src": "https://boktoss2345.github.io/Video-Editor-Creator-Cut-Trim-Music-Filters-5247/assets/video1565fs.mp4",
+          "src": "https://boktoss2345.github.io/Turbo-Street-Racing-3D-Car-Driving-Game-2544/assets/video1565fs.mp4",
           "autoplay": true,
           "loop": true,
           "muted": true,
@@ -112,13 +112,13 @@
     },
 
     {
-      "id": "ad_image_03",
+      "id": "ad_video_03",
       "enabled": true,
       "elements": [
         {
           "type": "video",
           "enabled": true,
-          "src": "https://boktoss2345.github.io/Video-Editor-Creator-Cut-Trim-Music-Filters-5247/assets/video584585.mp4",
+          "src": "https://boktoss2345.github.io/Turbo-Street-Racing-3D-Car-Driving-Game-2544/assets/video584585.mp4",
           "autoplay": true,
           "loop": true,
           "muted": true,
